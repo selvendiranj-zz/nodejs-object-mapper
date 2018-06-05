@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-object-mapper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "program.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "object-mapper": "^5.0.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
